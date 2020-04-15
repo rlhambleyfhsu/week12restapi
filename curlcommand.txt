@@ -1,0 +1,1 @@
+curl  -H "Content-Type: application/json" -d "{\"name\":\"Robert Hambley\", \"subscribedToChannel\": \"Web Dev Simplified\"}" http://localhost:3000/subscribers
